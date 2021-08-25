@@ -7,7 +7,6 @@ The sockets mechanism has been created to be independent of any specific type of
 
 ![image](https://user-images.githubusercontent.com/68193810/130823650-6da559e5-3629-468c-b2b0-66fc8493b5c2.png)
 
-
 ## Topics TCP/IP sockets <hr>
 There are a few steps involved in using sockets:
 
